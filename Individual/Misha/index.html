@@ -1,0 +1,43 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Task3</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.0/jquery-ui.js"></script>
+    <script>
+        $(function(){
+            $("#tabs").tabs();
+            $("#datepicker").datepicker();
+            $('#slider').slider({
+                range: 'max',
+                min: 0,
+                max: 100,
+                value: 50,
+                slide: function(event, ui){
+                    $('#val').val(ui.value);
+                }
+            });
+        })
+    </script>
+</head>
+<body>
+<div id="tabs" style="text-align: center">
+    <ul>
+        <li><a href="#t-1"> Основна</a></li>
+        <li><a href="#t-2"> Вибір числа за допомогою повзунка</a></li>
+        <li><a href="#t-3"> Вибір дати з календаря.</a></li>
+    </ul>
+    <div id="t-1">
+        Це демонстрація вкладок
+    </div>
+    <div id="t-2">
+        <div id="slider"></div>
+        <input type="text" id="val" value="" readonly>
+    </div>
+    <div id="t-3">
+        <p>Date: <input type="text" id="datepicker"></p>
+    </div>
+</div>
+</body>
+</html>
