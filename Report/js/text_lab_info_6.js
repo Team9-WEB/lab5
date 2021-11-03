@@ -53,6 +53,10 @@ function dinamic() {
 
 function php() {
     const text = `
+<h2>Встановлення XAMPP для  веб-сервера </h2>
+<img src="lab_img/lab6_img/main/php_result.png">
+<img src="lab_img/lab6_img/main/xampp_install.png">
+<hr>
         <h2>Завдання 1:</h2>
         <img src="lab_img/lab6_img/main/task1.png">
         <h2>Код:</h2>
@@ -64,6 +68,7 @@ function php() {
         <img src="lab_img/lab6_img/main/after1.png">
         <img src="lab_img/lab6_img/main/after2.png">
         </div>
+        <hr>
         <h2>Завдання 2:</h2>
         <img src="lab_img/lab6_img/main/task2.png">
         <div style="text-align: left">
