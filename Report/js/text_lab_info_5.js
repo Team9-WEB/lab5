@@ -43,15 +43,30 @@ function dinamic5() {
 }
 
 function buttons5() {
-    const text = `<h1>Кнопки соціальних мереж</h1>
+    const text = `<h1>Кнопки соціальних мереж та інформери</h1>
         <h2>Завдання:</h2>
         <img src="lab_img/lab5_img/task5.png">
         <hr>
         <div style="text-align: left">
             <h2>Результат:</h2>
-            <img src="lab_img/lab5_img/result_5.png" >
+            <img src="lab_img/lab5B/result.png" >
             <h2>Код:</h2>
-            <img src="lab_img/lab5_img/code_5.png">
+            <h3>HTML:</h3>
+            <img src="lab_img/lab5B/htmlSocial1.png">
+            <img src="lab_img/lab5B/htmlSocial2.png">
+            <img src="lab_img/lab5B/htmlSocial3.png">
+            <h3>CSS:</h3>
+            <img src="lab_img/lab5B/cssSocial1.png">
+            <img src="lab_img/lab5B/cssSocial2.png">
+            <img src="lab_img/lab5B/cssSocial3.png">
+            <img src="lab_img/lab5B/cssSocial4.png">
+            <img src="lab_img/lab5B/cssSocial5.png">
+            <img src="lab_img/lab5B/cssSocial6.png">
+            <img src="lab_img/lab5B/cssSocial7.png">
+            <h3>Структура з jQuery:</h3>
+            <img src="lab_img/lab5B/structureSocial.png">
+            <h3>JavaScript:</h3>
+            <img src="lab_img/lab5B/jsSocial1.png">
         </div>
 `;
 
