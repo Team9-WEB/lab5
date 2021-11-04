@@ -91,7 +91,7 @@ function itog_5() {
 
 function fideo5(){
     const text = `
-    <h1>ФотоСлайдер</h1>
+    <h1>Відеослайдер</h1>
     <img src="lab_img/videoRes.png" >
     <h2>HTML</h2>
     <xmp style="text-align:justify; background-color:whitesmoke;">
@@ -178,7 +178,7 @@ function foto5(){
 
 function slider5(){
     const text = `
-    <h1>Галерея</h1>
+    <h1>Слайдер фотографій</h1>
     <img src="lab_img/sliderRes.png" >
     <h2>HTML</h2>
     <xmp style="text-align:justify; background-color:whitesmoke;">
