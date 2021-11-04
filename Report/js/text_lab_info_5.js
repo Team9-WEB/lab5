@@ -14,18 +14,12 @@ function dinamic5() {
         <div style="text-align: left">
             <h2>Результат:</h2>
             <img src="lab_img/lab5_img/result_1.1.png" >
-            <h2>Код:</h2>
-            <img src="lab_img/lab6_img/dinamic/code1.1.png">
-            <img src="lab_img/lab6_img/dinamic/code1.2.png">
         </div>
         <hr>
         <h2>Slider - вибір числа за допомогою повзунка. </h2>
         <div style="text-align: left">
             <h2>Результат:</h2>
             <img src="lab_img/lab5_img/result_1.2.png" >
-            <h2>Код:</h2>
-            <img src="lab_img/lab6_img/dinamic/code2.1.png">
-            <img src="lab_img/lab6_img/dinamic/code2.2.png">
         </div>
         <hr>
         <h2>Datepicker - вибір дати з календаря </h2>
@@ -34,8 +28,8 @@ function dinamic5() {
             <img src="lab_img/lab5_img/result_1.3.png" > 
             </div>
             <h2>Код:</h2>
-            <img src="lab_img/lab6_img/dinamic/code3.1.png">
-            <img src="lab_img/lab6_img/dinamic/code3.2.png">
+            <img src="lab_img/lab5_img/code_3.1.png">
+            <img src="lab_img/lab5_img/code_3.2.png">
         </div>
 `;
 
