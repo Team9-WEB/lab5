@@ -79,7 +79,7 @@ function showLab4() {
 }
 
 function showLab5() {
-    const text = `<h1>Лабораторна робота №6</h1>
+    const text = `<h1>Лабораторна робота №5</h1>
                 <div class="navlab1">
                     <a onclick="description_2()">Опис</a>
                     <a onclick="meta_5()">Тема Мета</a>
